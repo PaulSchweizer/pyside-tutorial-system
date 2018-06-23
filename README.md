@@ -1,2 +1,2 @@
-# pyside_tutorial_system
+# PySide Tutorial System
 Enhance your PySide UIs with interactive tutorials
